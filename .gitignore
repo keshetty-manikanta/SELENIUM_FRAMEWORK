@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# TestNG reports
+test-output/
+
+# IDE files
+.idea/
+.vscode/
+
+# Java
+*.class
+
+# Logs
+*.log
