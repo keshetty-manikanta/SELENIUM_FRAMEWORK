@@ -13,3 +13,5 @@ test-output/
 
 # Logs
 *.log
+
+src/test/Resources/report.html
